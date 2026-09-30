@@ -1,7 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:00BFFF,100:7B2FBE&height=200&section=header&text=Abdul%20Samad&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18&animation=twinkling)
-
+![Header](./assets/banner.svg)
 ![Views](https://komarev.com/ghpvc/?username=Abdul-Samad-17&style=for-the-badge&color=00FF99&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Abdul-Samad-17?style=for-the-badge&color=00BFFF&labelColor=0D1117)
 
@@ -11,20 +10,23 @@
 
 </div>
 
+<img align="right" width="280" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
+
 ### `> whoami`
 
 ```python
 class AbdulSamad:
     def __init__(self):
-        self.education = "BS Artificial Intelligence - FAST NUCES Islamabad"  # EDIT
+        self.education = "BS Artificial Intelligence - FAST NUCES Islamabad"
         self.focus     = ["Machine Learning", "RAG Chatbots", "Full-Stack Apps"]
         self.languages = ["C++", "Python", "JavaScript"]
-        self.fun_fact  = "I turn coffee into code"  # EDIT
+        self.fun_fact  = "I turn coffee into code"
 
     def greet(self):
         return "Let's build something great together"
 ```
 
+<br clear="right">
 ---
 
 ## ⚡ Tech Arsenal
