@@ -1,7 +1,8 @@
 <div align="center">
 
 ![Header](https://github.com/Abdul-Samad-17/Abdul-Samad-17/raw/main/assets/banner.svg)
-![Views](https://komarev.com/ghpvc/?username=Abdul-Samad-17&style=for-the-badge&color=00FF99&label=PROFILE+VIEWS)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20IOT-00FF99?style=for-the-badge&labelColor=0D1117)
+![Location](https://img.shields.io/badge/BASED%20IN-PAKISTAN%20🇵🇰-7B2FBE?style=for-the-badge&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/Abdul-Samad-17?style=for-the-badge&color=00BFFF&labelColor=0D1117)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-samad1706)
@@ -18,7 +19,7 @@
 class AbdulSamad:
     def __init__(self):
         self.education = "BS Artificial Intelligence - FAST NUCES Islamabad"
-        self.focus     = ["Machine Learning", "RAG Chatbots", "Full-Stack Apps"]
+       self.focus = ["ML", "Computer Vision", "ANN", "Automation", "IoT"]
         self.languages = ["C++", "Python", "JavaScript"]
         self.fun_fact  = "I turn coffee into code"
 
