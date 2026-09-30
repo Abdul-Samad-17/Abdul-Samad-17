@@ -1,13 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#05A870"/>
       <stop offset="0.5" stop-color="#0B7FAB"/>
       <stop offset="1" stop-color="#5B2A86"/>
     </linearGradient>
   </defs>
-  <rect width="1000" height="200" fill="url(#g)"/>
-  <path d="M0 150 C200 120 350 185 550 160 C750 135 880 150 1000 135 L1000 200 L0 200 Z" fill="#0D1117" opacity="0.4"/>
-  <text x="500" y="92" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Abdul Samad</text>
-  <text x="500" y="135" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#ffffff">AI &amp; ML Student | Full-Stack Developer</text>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+
+  <!-- back wave (slow) -->
+  <path fill="#0D1117" opacity="0.35"
+        d="M0 170 q125 -40 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V220 H0 Z">
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- front wave (faster, opposite feel) -->
+  <path fill="#0D1117" opacity="0.55"
+        d="M0 190 q125 30 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V220 H0 Z">
+    <animateTransform attributeName="transform" type="translate"
+                      from="-500 0" to="0 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- name -->
+  <text x="500" y="100" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">
+    Abdul Samad
+    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- position -->
+  <text x="500" y="145" text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#ffffff">
+    AI &amp; ML Student | Full-Stack Developer
+    <animate attributeName="opacity" values="0;1" dur="2.5s" fill="freeze"/>
+  </text>
 </svg>
