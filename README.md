@@ -49,15 +49,11 @@ class AbdulSamad:
 
 ![Streak](https://streak-stats.demolab.com/?user=Abdul-Samad-17&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF99&ring=00BFFF&fire=7B2FBE&currStreakLabel=00FF99&sideLabels=c9d1d9)
 
+<div align="center">
+
+![Contributions](https://ghchart.rshah.org/00FF99/Abdul-Samad-17)
+
 </div>
-
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Samad-17&bg_color=0D1117&color=00FF99&line=00BFFF&point=7B2FBE&area=true&hide_border=true)
-
----
 
 ## 🚀 Featured Projects
 
