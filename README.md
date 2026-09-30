@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/banner.svg)
+![Header](https://github.com/Abdul-Samad-17/Abdul-Samad-17/raw/main/assets/banner.svg)
 ![Views](https://komarev.com/ghpvc/?username=Abdul-Samad-17&style=for-the-badge&color=00FF99&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Abdul-Samad-17?style=for-the-badge&color=00BFFF&labelColor=0D1117)
 
@@ -27,6 +27,7 @@ class AbdulSamad:
 ```
 
 <br clear="right">
+
 ---
 
 ## ⚡ Tech Arsenal
